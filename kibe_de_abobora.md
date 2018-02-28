@@ -33,3 +33,5 @@ Leve ao forno por 30 minutos
 ![24-dsc_0136](https://user-images.githubusercontent.com/458654/36764576-f18ce6de-1c0b-11e8-9050-f26d01bf9331.jpg)
 
 > DICA: Fica muito com pimenta SRIRACHA
+
+> **NOTE:** As imagens são apenas ilustrativas e copiadas do google images, se você é dono das imagens e gostaria que fossem removidas do repositório por favor abra uma issue solicitando.
