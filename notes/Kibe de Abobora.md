@@ -1,3 +1,10 @@
+---
+tags: [abobora, arabe, forno, gluten, kibe, salgada, trigo, salgada]
+title: Kibe de Abóbora
+created: '2019-07-31T15:43:07.307Z'
+modified: '2019-07-31T16:11:10.666Z'
+---
+
 # Kibe de Abobora
 
 ## Ingredientes
@@ -10,6 +17,12 @@
 - 2 colheres cheias de molho shoyu (se gostar mais salgado coloca mais, se no tiver shoyu coloca sal a gosto)
 
 ![0001-6](https://user-images.githubusercontent.com/458654/36764579-f1fb3e22-1c0b-11e8-9425-1ff2b59933b4.jpg)
+
+## Utensílios
+
+- Forma 
+- Espatula
+- Processador de alimentos ou mixer (para triturar os temperos, **opcional**)
 
 ## Preparo
 
