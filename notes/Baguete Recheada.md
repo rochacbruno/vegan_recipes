@@ -87,6 +87,8 @@ Divida a massa em 3 partes iguais e usando um rolo, uma garrafa ou as mãos, abr
 
 > Enquanto aguarda os 20 minutos, pré aqueça o forno em 250 graus.
 
+![](../attachments/baguete_recheada_0.jpg)
+
 #### Passo 6: Forno
 
 Com o forno pré aquecido coloque na grade de baixo ou na base do forno uma assadeira pequena com água (não precisa ser muita água, apenas uns 2 dedos de água no fundo da assadeira). Essa água vai virar vapor e ajudar na fase de crescimento do pão.
@@ -104,6 +106,5 @@ Após 25 minutos abaixe a temperatura para 200 graus (se tiver um grill essa é 
 Coloque os pães já assados sob uma grade ou dentro de uma cesta e deixe esfriar por 10 minutos dessa forma o pão termina o processo de cozimento depois de sair do forno.
 
 ## Fotos
-![](../attachments/baguete_recheada_0.jpg)
 ![](../attachments/baguete_recheada_1.jpg)
 
